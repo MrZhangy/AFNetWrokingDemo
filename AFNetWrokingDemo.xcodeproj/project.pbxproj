@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F580B3631B0C6B9200CB4879 /* 0.png in Resources */ = {isa = PBXBuildFile; fileRef = F580B3621B0C6B9200CB4879 /* 0.png */; };
 		F5F7C0F71B021FC100A158FD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F5F7C0F61B021FC100A158FD /* main.m */; };
 		F5F7C0FA1B021FC100A158FD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F5F7C0F91B021FC100A158FD /* AppDelegate.m */; };
 		F5F7C0FD1B021FC100A158FD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F5F7C0FC1B021FC100A158FD /* ViewController.m */; };
@@ -44,6 +45,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F580B3621B0C6B9200CB4879 /* 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0.png; sourceTree = "<group>"; };
 		F5F7C0F11B021FC100A158FD /* AFNetWrokingDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AFNetWrokingDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5F7C0F51B021FC100A158FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F5F7C0F61B021FC100A158FD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -134,6 +136,7 @@
 		F5F7C0F31B021FC100A158FD /* AFNetWrokingDemo */ = {
 			isa = PBXGroup;
 			children = (
+				F580B3621B0C6B9200CB4879 /* 0.png */,
 				F5F7C11A1B02205200A158FD /* AFNetworking */,
 				F5F7C0F81B021FC100A158FD /* AppDelegate.h */,
 				F5F7C0F91B021FC100A158FD /* AppDelegate.m */,
@@ -312,6 +315,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F580B3631B0C6B9200CB4879 /* 0.png in Resources */,
 				F5F7C1001B021FC100A158FD /* Main.storyboard in Resources */,
 				F5F7C1051B021FC100A158FD /* LaunchScreen.xib in Resources */,
 				F5F7C1021B021FC100A158FD /* Images.xcassets in Resources */,
@@ -542,6 +546,7 @@
 				F5F7C1161B021FC200A158FD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F5F7C1171B021FC200A158FD /* Build configuration list for PBXNativeTarget "AFNetWrokingDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -550,6 +555,7 @@
 				F5F7C1191B021FC200A158FD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
